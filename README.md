@@ -12,6 +12,7 @@ Things you need to do:
 Edit this section of the code:
 
 > // FONTS
+> 
 > $font_path 	= dirname(__FILE__) . '/fonts';
 > 
 > $font_body  = '/source_code/SourceCodePro-SemiBold.ttf';
