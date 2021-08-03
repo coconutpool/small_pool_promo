@@ -13,10 +13,15 @@ Edit this section of the code:
 
 > // FONTS
 > $font_path 	= dirname(__FILE__) . '/fonts';
+> 
 > $font_body  = '/source_code/SourceCodePro-SemiBold.ttf';
+> 
 > $font_title = '/nerko/nerko-regular.ttf';
+> 
 > $title_color = 'D5302F';
+> 
 > $body_color  = '2C3336';
+> 
 
 2) Add your Twitter credentials to the config.php file.
 
