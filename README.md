@@ -1,5 +1,5 @@
 # Small Pool Promo
-Twitter post to promote other small skate pools.
+Twitter post to promote other small stake pools.
 
 Requirements:
 
