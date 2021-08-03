@@ -170,7 +170,7 @@ foreach ($pools as $pool => $stats) {
 				
 				array_push($tickers, $sp);
 
-				print_r($sp);
+	
 
 			}
 		}
