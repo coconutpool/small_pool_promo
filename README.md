@@ -26,4 +26,9 @@ Edit this section of the code:
 
 2) Add your Twitter credentials to the config.php file.
 
-3) Add this script as a cron job to run daily.
+3) Create a new background image: 1024 x 512, leave it mostly blank for the text.
+> // IMAGE BACKGROUND
+> 
+> $background = dirname(__FILE__) . '/img/twitter_bg.png';
+
+4) Add this script as a cron job to run daily.
